@@ -8,4 +8,4 @@ If Char Is Capital Letter The Shift Will Be 9 times / If Char Is Small Letter Th
 3.Then Its Going To Do Shift 50 Times For All Chars.  
 4.Then Its Going To Convert The String To Binary  
 5.Then Its Going To Reverse The Binary Result  
-6.The Last Step Is Shifting 0 to 1 and 1 to 0 of every last 4 chars of the binary: 011000010110001001100011 -> 011011100110110101101100
+6.The Last Step Is Shifting 0 to 1 and 1 to 0 of every last 4 Numbers of Every Single Char: 011000010110001001100011 -> 011011100110110101101100
